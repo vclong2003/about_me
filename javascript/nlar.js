@@ -24,7 +24,7 @@ app.controller('myController', function($scope) {
 	$scope.phonenumber = "0888827768 - Vinaphone";
 	$scope.email = "vclong2003@gmail.com";
 	$scope.title2 = "My Story";
-	$scope.contentStory1 = "Mọi viễn cảnh, mọi ý tưởng bạn mong ước đều có thể trở thành hiện thực, miễn là bạn cam kết và nỗ lực hành động bằng mọi cách. Bạn không thể chỉ tưởng tượng và đợi một bà tiên xuất hiện biến mọi thứ thành sự thực. Thái độ sống là yếu tố quan trọng quyết định cuộc sống của bạn. Chỉ cần bạn thay đổi thái độ sống tích cực thì cuộc đời của bạn sẽ tràn ngập niềm vui và hạnh phúc. Chúc bạn nhiều an lạc trong cuộc sống!";
+	$scope.contentStory1 = "Mọi viễn cảnh, mọi ý tưởng bạn mong ước đều có thể trở thành hiện thực, miễn là bạn cam kết và nỗ lực hành động bằng mọi cách. Thái độ sống là yếu tố quan trọng quyết định cuộc sống của bạn. Chỉ cần bạn thay đổi thái độ sống tích cực thì cuộc đời của bạn sẽ tràn ngập niềm vui và hạnh phúc.";
 	$scope.contentStory2 = "Quãng thời gian cấp 3 thực sự rất ý nghĩa với tôi. Tôi yêu tất cả các bạn. Chúc mọi người luôn hạnh phúc và gặt hái nhiều thành công.";
 	$scope.storytitle1 = "";
 	$scope.storytitle2 = "";
