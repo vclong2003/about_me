@@ -1,12 +1,12 @@
 var app = angular.module('myApp',[]);
 app.controller('myController', function($scope) {
-	$scope.abm = "About VCL";
+	$scope.abm = "About Me";
 	$scope.updateInfo = "";
 	$scope.verify = "";
 	$scope.des = "Description about me !";
 	$scope.cv = "Job";
 	$scope.job1 = "Web Developer";
-	$scope.job2 = "";
+	$scope.job2 = "Student";
 	$scope.contact = "Info";
 	$scope.contact1 = "vclong2003@gmail.com";
 	$scope.contact2 = "facebook.com/charon833";
@@ -24,7 +24,7 @@ app.controller('myController', function($scope) {
 	$scope.phonenumber = "0888827768 - Vinaphone";
 	$scope.email = "vclong2003@gmail.com";
 	$scope.title2 = "My Story";
-	$scope.contentStory1 = "Mọi viễn cảnh, mọi ý tưởng bạn mong ước đều có thể trở thành hiện thực, miễn là bạn cam kết và nỗ lực hành động bằng mọi cách. Thái độ sống là yếu tố quan trọng quyết định cuộc sống của bạn. Chỉ cần bạn thay đổi thái độ sống tích cực thì cuộc đời của bạn sẽ tràn ngập niềm vui và hạnh phúc.";
+	$scope.contentStory1 = "Trường THPT Cầu Giấy – Trường công lập được thành lập ngày 27/4/2007 theo Quyết định số 1690 của UBND Thành phố Hà Nội. ";
 	$scope.contentStory2 = "Quãng thời gian cấp 3 thực sự rất ý nghĩa với tôi. Tôi yêu tất cả các bạn. Chúc mọi người luôn hạnh phúc và gặt hái nhiều thành công.";
 	$scope.storytitle1 = "";
 	$scope.storytitle2 = "";
