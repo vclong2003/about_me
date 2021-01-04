@@ -25,7 +25,7 @@ app.controller('myController', function($scope) {
 	$scope.email = "vclong2003@gmail.com";
 	$scope.title2 = "My Story";
 	$scope.contentStory1 = "Trường THPT Cầu Giấy – Trường công lập được thành lập ngày 27/4/2007 theo Quyết định số 1690 của UBND Thành phố Hà Nội. ";
-	$scope.contentStory2 = "Quãng thời gian cấp 3 thực sự rất ý nghĩa với . Tôi yêu tất cả các bạn. Chúc mọi người luôn hạnh phúc và gặt hái nhiều thành công.";
+	$scope.contentStory2 = "Quãng thời gian cấp 3 thực sự rất ý nghĩa với mình. Mình yêu tất cả các bạn. Chúc các bạn luôn hạnh phúc và gặt hái nhiều thành công.";
 	$scope.storytitle1 = "";
 	$scope.storytitle2 = "";
 	$scope.nothinglikeus = "";
