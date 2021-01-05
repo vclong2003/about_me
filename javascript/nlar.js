@@ -24,8 +24,8 @@ app.controller('myController', function($scope) {
 	$scope.phonenumber = "0888827768 - Vinaphone";
 	$scope.email = "vclong2003@gmail.com";
 	$scope.title2 = "My Story";
-	$scope.contentStory1 = "Trường THPT Cầu Giấy – Trường công lập được thành lập ngày 27/4/2007 theo Quyết định số 1690 của UBND Thành phố Hà Nội. ";
-	$scope.contentStory2 = "Quãng thời gian cấp 3 thực sự rất ý nghĩa với mình. Mình yêu tất cả các bạn. Chúc các bạn luôn hạnh phúc và gặt hái nhiều thành công.";
+	$scope.contentStory1 = "JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.";
+	$scope.contentStory2 = "Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.";
 	$scope.storytitle1 = "";
 	$scope.storytitle2 = "";
 	$scope.nothinglikeus = "";
