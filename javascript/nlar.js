@@ -1,5 +1,5 @@
-var app = angular.module('myApp',[]);
-app.controller('myController', function($scope) {
+var app = angular.module('myApp', []);
+app.controller('myController', function ($scope) {
 	$scope.abm = "About Me";
 	$scope.updateInfo = "";
 	$scope.verify = "";
@@ -24,7 +24,7 @@ app.controller('myController', function($scope) {
 	$scope.phonenumber = "0888827768 - Vinaphone";
 	$scope.email = "vclong2003@gmail.com";
 	$scope.title2 = "My Story";
-	$scope.contentStory1 = "JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.";
+	$scope.contentStory1 = "Trường THPT Cầu Giấy là trường công lập thành lập năm 2007, được cấp nguồn ngân sách Nhà nước trong đào tạo và giáo dục học sinh.";
 	$scope.contentStory2 = "Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.";
 	$scope.storytitle1 = "";
 	$scope.storytitle2 = "";
@@ -33,10 +33,10 @@ app.controller('myController', function($scope) {
 	$scope.au = "VCL";
 	$scope.phone = false;
 	$scope.reverse = function () {
-		$scope.phone= !$scope.phone;
+		$scope.phone = !$scope.phone;
 	}
 	$scope.gmail = false;
 	$scope.reverse2 = function () {
-		$scope.gmail= !$scope.gmail;
+		$scope.gmail = !$scope.gmail;
 	};
 });
