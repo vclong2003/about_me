@@ -9,7 +9,7 @@ app.controller('myController', function($scope) {
 	$scope.job2 = "";
 	$scope.contact = "Info";
 	$scope.contact1 = "vclong2003@gmail.com";
-	$scope.contact2 = "facebook.com/charon833";
+	$scope.contact2 = "facebook.com/vclong8303";
 	$scope.contactmi = "CONTACT ME";
 	$scope.ifyou = "My contact information";
 	$scope.modal1 = "Facebook";
@@ -17,7 +17,7 @@ app.controller('myController', function($scope) {
 	$scope.modal3 = "";
 	$scope.modal4 = "Email";
 	$scope.modal5 = "Sms";
-	$scope.linkfb = "https://facebook.com/charon833";
+	$scope.linkfb = "https://facebook.com/vclong8303";
 	$scope.linkzl = "https://zalo.me/0888827768";
 	$scope.linksc = "";
 	$scope.linkgm = "vclong2003@gmail.com";
