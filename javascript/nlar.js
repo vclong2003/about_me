@@ -13,7 +13,7 @@ app.controller('myController', function ($scope) {
 	$scope.contactmi = "CONTACT ME";
 	$scope.ifyou = "My contact information";
 	$scope.modal1 = "Facebook";
-	$scope.modal2 = "Zal";
+	$scope.modal2 = "Zalo";
 	$scope.modal3 = "";
 	$scope.modal4 = "Email";
 	$scope.modal5 = "Sms";
